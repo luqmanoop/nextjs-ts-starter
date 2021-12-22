@@ -1,5 +1,6 @@
 {
-  "name": "nextjs-starter",
+  "name": "nextjs-ts-starter",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
